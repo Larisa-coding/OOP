@@ -1,5 +1,0 @@
-Bird,птичка,2
-Mammal,тигрр,4
-Reptile,змеючка,3
-ZooKeeper,Алиска
-Veterinarian,Олежка
